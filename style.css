@@ -174,7 +174,7 @@
 }
 @media only screen and (min-width: 1389px) {
     .container{
-        height: 100hv;
+        height: 100vh;
     }
    
     .wrap, .wrap-left, .wrap-right{
